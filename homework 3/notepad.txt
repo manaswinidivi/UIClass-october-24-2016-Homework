@@ -6,3 +6,123 @@ versions of html (4,5) ? release dates?
 changes btwn html 4 and html 5
 why do we need to use html ?
 
+1) create a html document is any file have to say .html or .htm 
+example if we have notepad
+have to save filename.html 
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+some of the references are
+http://www.w3schools.com/html/html_editors.asp
+http://www.unc.edu/~twtaylor/teaching/29/web/notepad.html
+http://www.liutilities.com/how-to/create-an-html-document/
+https://www.sec.gov/info/edgar/quick-reference/create-simple-html-files.pdf
+http://homepage.cs.uri.edu/book/html_create/html_create.htm
+
+
+2) Element consists of a start tag and end tag 
+ In element consists of <h1> this is element </h1>
+                        <p> this is element </p>
+
+there are empty elements that means if we dont have any content should be a tag <br>
+
+for example
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1> this is example for elemet </h1>
+<p> element </p>
+
+</body>
+</html>
+
+references
+http://www.w3schools.com/html/html_elements.asp
+https://www.tutorialspoint.com/html/html_elements.htm
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+http://htmldog.com/guides/html/beginner/tags/
+https://www.lehigh.edu/~inwww/seminar/reference/htmlchart.html
+
+3) an attribute
+
+
+Tags can also have attributes, which are extra bits of information. Attributes appear inside the opening tag and their values sit inside quotation marks. They look something like <tag attribute="value">Margarine</tag>. We will come across tags with attributes later
+
+. An HTML attribute is an associated property of an HTML element and used to extend the capability of an HTML element.
+
+2. HTML attributes (usually) have values and are written after a "=" after the name of the attribute.
+
+3. Attribute value pair is placed before the last ">" of an HTML start tag.
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+http://www.w3resource.com/html/attributes/HTML-attributes.php
+http://www.w3schools.com/html/html_attributes.asp
+https://www.tutorialspoint.com/html/html_attributes.htm
+https://www.w3.org/TR/html4/index/attributes.html
+
+
+parent element and child element
+The element>element selector is used to select elements with a specific parent.
+
+ * Elements that are not directly a child of the specified parent, are not selected.
+
+
+ versions of html 4 AND html 5
+
+ December 18, 1997
+HTML 4.0[18] was published as a W3C Recommendation. It offers three variations:
+Strict, in which deprecated elements are forbidden
+Transitional, in which deprecated elements are allowed
+Frameset, in which mostly only frame related elements are allowed.
+Initially code-named "Cougar",[17] HTML 4.0 adopted many browser-specific element types and attributes, but at the same time sought to phase out Netscape's visual markup features by marking them as deprecated in favor of style sheets. HTML 4 is an SGML application conforming to ISO 8879 – SGML.[19]
+April 24, 1998
+HTML 4.0[20] was reissued with minor edits without incrementing the version number.
+December 24, 1999
+HTML 4.01[21] was published as a W3C Recommendation. It offers the same three variations as HTML 4.0 and its last errata were published on May 12, 2001.
+May 2000
+ISO/IEC 15445:2000[22][23] ("ISO HTML", based on HTML 4.01 Strict) was published as an ISO/IEC international standard. In the ISO this standard falls in the domain of the ISO/IEC JTC1/SC34 (ISO/IEC Joint Technical Committee 1, Subcommittee 34 – Document description and processing languages).[22]
+After HTML 4.01, there was no new version of HTML for many years as development of the parallel, XML-based language XHTML occupied the W3C's HTML Working Group through the early and mid-2000s.
+October 28, 2014
+HTML5[24] was published as a W3C Recommendation.[25]
+
+References:
+
+https://en.wikipedia.org/wiki/HTML
+http://blog.rackspace.com/internet-history-html-evolution
+http://www.yourhtmlsource.com/starthere/historyofhtml.html
+http://www.w3schools.com/html/html5_intro.asp
+
+differences
+
+html 4
+uses common structures like headers, footers, whereas html 5 new structures like drag drop and more
+
+
+
+http://www.go4expert.com/articles/html4-vs-html5-comparison-t30141/
+
+http://www.rapidprogramming.com/questions-answers/What-is-the-difference-between-HTML-5-and-HTML-4--517
+https://churchm.ag/differences-between-html4-html5/
+
+
+
+6(It is possible to design websites
+TML, or Hypertext Markup Language, is used to create web pages. Site authors use HTML to format text as titles and headings, to arrange graphics on a webpage, to link to different pages within a website, and to link to different websites.
+
+
+
+
+
+
+http://www.w3schools.com/cssref/sel_element_gt.asp
+http://www.w3schools.com/jsref/prop_node_parentelement.asp
