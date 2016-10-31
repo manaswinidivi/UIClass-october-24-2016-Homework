@@ -1,0 +1,8 @@
+how to create a html document
+what is element
+what is an attribute?
+parent element and child element ?
+versions of html (4,5) ? release dates?
+changes btwn html 4 and html 5
+why do we need to use html ?
+
