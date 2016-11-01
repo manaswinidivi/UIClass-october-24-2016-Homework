@@ -119,10 +119,5 @@ https://churchm.ag/differences-between-html4-html5/
 6(It is possible to design websites
 TML, or Hypertext Markup Language, is used to create web pages. Site authors use HTML to format text as titles and headings, to arrange graphics on a webpage, to link to different pages within a website, and to link to different websites.
 
-
-
-
-
-
 http://www.w3schools.com/cssref/sel_element_gt.asp
 http://www.w3schools.com/jsref/prop_node_parentelement.asp
